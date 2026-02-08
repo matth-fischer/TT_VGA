@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Generates VGA squares animation (based on VGA playground rings template)
 
 ## How to test
 
-Explain how to use your project
+Either using the testbench or connect final design. Ui[0] can control the speed and Ui[1] controls the direction of the square animation.
 
 ## External hardware
 
